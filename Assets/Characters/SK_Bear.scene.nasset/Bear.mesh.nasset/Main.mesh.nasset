@@ -1,0 +1,120 @@
+{
+    "guid": "01942e2b-a7c8-788c-f036-ff83f18a80c4",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "01942e2b-a7c8-7fb5-b497-b5f3da7bdf32",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "01942e2b-a7c8-78bf-47e0-6a7ddc9208dc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bear Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "01942e2b-a7c9-7a8a-f584-979c8cd41e09",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "8325bf22-93be-412e-851c-fadaf0cd2c2a",
+                                "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
+                                "1a35537c-bf4e-45e4-a52a-585c5cee7990"
+                            ],
+                            "jump_animations": [
+                                "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
+                                "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
+                                "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942e2b-a7c9-75b6-bb21-7a62563dc1ec",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bear Brown"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942e2b-a7c8-76b1-c92c-13f9c33dccc6",
+                                "material_instance": "01942e2b-a7c8-72ac-427e-ff1da2169a00"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942e2b-a7c9-73b2-10f5-9422ff6a80ea"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "01942e2b-a7c9-7c90-96aa-2621a78ceef4",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Bear Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "01942e2b-a7c9-75b0-f81b-2f688d2d0ec9",
+                                "material_instance": "01942e2b-5507-7090-91f3-e4282d50d9d4"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "01942e2b-a7c9-7e94-aa3b-1e4d8cd7df5e"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "01942e2b-a7c9-7fbe-8e72-e77b74feff52"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "01942e2b-a7c8-788c-f036-ff83f18a80c4"
+    },
+    "dependencies": [
+        "01942e2b-a7c8-72ac-427e-ff1da2169a00",
+        "01942e2b-a7c8-76b1-c92c-13f9c33dccc6",
+        "01942e2b-a7c9-73b2-10f5-9422ff6a80ea",
+        "01942e2b-5507-7090-91f3-e4282d50d9d4",
+        "01942e2b-a7c9-75b0-f81b-2f688d2d0ec9",
+        "01942e2b-a7c9-7e94-aa3b-1e4d8cd7df5e",
+        "01942e2b-a7c9-7fbe-8e72-e77b74feff52",
+        "8325bf22-93be-412e-851c-fadaf0cd2c2a",
+        "a5ac0ba2-0f46-4510-b6d1-9beca7da75c8",
+        "1a35537c-bf4e-45e4-a52a-585c5cee7990",
+        "9a82901c-b63f-4688-9e9f-f2c99bb878d0",
+        "da6963f7-0ef1-45f0-8b7f-b031989b09c0",
+        "fa336836-4b5f-4f96-84f7-ea5ae00a3bbb"
+    ]
+}
