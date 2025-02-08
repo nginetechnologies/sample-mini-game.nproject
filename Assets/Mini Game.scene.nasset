@@ -12,7 +12,7 @@
     "children": [
         {
             "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
-            "instanceGuid": "f9a9f4ff-d995-429a-bd68-fe8821f3c0d8",
+            "instanceGuid": "6ba1c22d-c41b-4aae-bebd-36d92e684c1e",
             "data_components": [
                 {
                     "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
@@ -40,17 +40,22 @@
         },
         {
             "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
-            "instanceGuid": "0193be36-853e-77bc-82e3-0bdd0c6892e1",
+            "instanceGuid": "2662ae70-aad5-3143-deea-6fdbd8b2020e",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -9.9539,
-                    -43.8628,
-                    0.5601
+                    0,
+                    0,
+                    2
                 ],
-                "referenced": true
+                "rotation": [
+                    0,
+                    0,
+                    89.9994
+                ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "269924b4-cb58-4aa2-98cf-82df7ed04593"
+                "asset": "269924b4-cb58-4aa2-98cf-82df7ed04593",
+                "audio_asset": "2e5d6458-f003-4d2a-9a46-0f4926ec9e16"
             },
             "data_components": [
                 {
@@ -60,6 +65,12 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Spawn Point"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
                 }
             ]
         },
