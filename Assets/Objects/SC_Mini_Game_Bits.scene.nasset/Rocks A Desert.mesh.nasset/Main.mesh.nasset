@@ -1,16 +1,16 @@
 {
-    "guid": "0193b249-0327-7586-187b-a2a72be43fa0",
+    "guid": "0194e6f8-a50c-7ba5-493f-d58d89f898e5",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "0193b249-0327-7fbd-45ff-0008e5611135",
+    "instanceGuid": "0194e6f8-a50c-7d9e-a954-bdcc61c83a07",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "0193b249-0327-778a-ba6b-ee096c258f55",
+            "instanceGuid": "0194e6f8-a50c-7dab-a1f1-7784abb4ee2d",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "0193b249-0327-7493-4c9f-b2dd24a57467",
+                    "instanceGuid": "0194e6f8-a50c-7d9b-0202-3d89d76af4e8",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Rocks A Desert BrownDark Collider"
+                            "name": "Rocks A Desert Brown Dark Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "0193b249-0327-74b4-d28a-2a2fe0f2866c",
+                            "instanceGuid": "0194e6f8-a50c-76a4-d26b-9e92cee8ead3",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Rocks A Desert BrownDark"
+                                    "name": "Rocks A Desert Brown Dark"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "0193b249-0327-7896-2c12-a54ebe4736dd",
-                                "material_instance": "0193b249-0321-798c-f637-d54d7a02b10d"
+                                "mesh": "0194e6f8-a50c-71b5-1760-c3f725182c0e",
+                                "material_instance": "0194e6f8-a507-7f98-c835-e767cff046e3"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "0193b249-0327-7896-2c12-a54ebe4736dd"
+                        "mesh": "0194e6f8-a50c-71b5-1760-c3f725182c0e"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
                 }
@@ -62,11 +62,11 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "0193b249-0327-7586-187b-a2a72be43fa0"
+        "scene": "0194e6f8-a50c-7ba5-493f-d58d89f898e5"
     },
     "dependencies": [
-        "0193b249-0321-798c-f637-d54d7a02b10d",
-        "0193b249-0327-7896-2c12-a54ebe4736dd",
+        "0194e6f8-a507-7f98-c835-e767cff046e3",
+        "0194e6f8-a50c-71b5-1760-c3f725182c0e",
         "dc7e2094-148c-438d-9b97-b6586e6e5f87"
     ]
 }

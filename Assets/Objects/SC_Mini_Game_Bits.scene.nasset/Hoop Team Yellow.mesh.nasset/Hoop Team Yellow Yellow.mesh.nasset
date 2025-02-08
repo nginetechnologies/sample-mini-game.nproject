@@ -1,7 +1,7 @@
 {
-    "guid": "0193b249-0326-7c90-a946-8c8fd70ce565",
+    "guid": "0194e6f8-a50b-7d9a-2563-00a5319de3f6",
     "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-    "instanceGuid": "0193b249-1160-739a-aebe-27092c5f9e50",
+    "instanceGuid": "0194e6f8-ada4-79bd-5887-cfb64bc6fc30",
     "data_components": [
         {
             "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
@@ -11,7 +11,7 @@
     "children": [
         {
             "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "0193b249-1160-71a1-fa0c-0ae70d022704",
+            "instanceGuid": "0194e6f8-ada4-7d96-3653-9df1ad207967",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -21,7 +21,7 @@
             "children": [
                 {
                     "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "0193b249-1160-7a8f-48cd-4c5390212732",
+                    "instanceGuid": "0194e6f8-ada4-7cbb-8e31-59bfd57f1146",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -35,19 +35,19 @@
                         ]
                     },
                     "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "0193b249-0326-7c90-a946-8c8fd70ce565",
-                        "material_instance": "0193b249-0321-7fa4-c3cc-4d1b13fdaa4c"
+                        "mesh": "0194e6f8-a50b-7d9a-2563-00a5319de3f6",
+                        "material_instance": "0194e6f8-a507-7da4-3651-1a2466f23bb2"
                     }
                 }
             ],
             "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "0193b249-0326-7c90-a946-8c8fd70ce565"
+                "mesh": "0194e6f8-a50b-7d9a-2563-00a5319de3f6"
             },
             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
         }
     ],
     "dependencies": [
-        "0193b249-0321-7fa4-c3cc-4d1b13fdaa4c",
+        "0194e6f8-a507-7da4-3651-1a2466f23bb2",
         "dc7e2094-148c-438d-9b97-b6586e6e5f87"
     ],
     "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",

@@ -1,16 +1,16 @@
 {
-    "guid": "0193b249-0321-719a-4437-8919670f4efd",
+    "guid": "0194e6f8-a507-78ad-e09a-cab5c990cf93",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "0193b249-0321-7389-55c1-8cf1c2d51478",
+    "instanceGuid": "0194e6f8-a507-71aa-fcd1-d8186fbfe657",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "0193b249-0321-79b3-3e3f-0b1aa49804c9",
+            "instanceGuid": "0194e6f8-a507-7f98-227e-cec91638bf42",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "0193b249-0321-7a94-4665-7021fa9c7924",
+                    "instanceGuid": "0194e6f8-a507-799f-7d23-9551e348a842",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Arrow Team Red BrownDark Collider"
+                            "name": "Arrow Team Red Brown Dark Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "0193b249-0321-72aa-dd5b-9db7f8a42851",
+                            "instanceGuid": "0194e6f8-a507-708b-25fb-ecf5c59db73e",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Arrow Team Red BrownDark"
+                                    "name": "Arrow Team Red Brown Dark"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,19 +48,19 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "0193b249-0321-75b6-6c68-b386d9ccb95f",
-                                "material_instance": "0193b249-0321-798c-f637-d54d7a02b10d"
+                                "mesh": "0194e6f8-a507-709c-d34c-1082d120006a",
+                                "material_instance": "0194e6f8-a507-7f98-c835-e767cff046e3"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "0193b249-0321-75b6-6c68-b386d9ccb95f"
+                        "mesh": "0194e6f8-a507-709c-d34c-1082d120006a"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "0193b249-0321-7994-a864-37166d3b3a70",
+                    "instanceGuid": "0194e6f8-a507-7db1-8df5-57e923ef33fb",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -70,7 +70,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "0193b249-0321-7cb0-6223-f7447ffa3db0",
+                            "instanceGuid": "0194e6f8-a507-7191-c5c2-2d2f4188ebdf",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -84,19 +84,19 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "0193b249-0321-71a9-c3e5-7c07f30eb3af",
-                                "material_instance": "0193b249-0321-7ba2-1b8e-a7221a1ebd14"
+                                "mesh": "0194e6f8-a507-7b9d-963b-5d5482d7aca7",
+                                "material_instance": "0194e6f8-a507-7b93-f082-40974fa909b5"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "0193b249-0321-71a9-c3e5-7c07f30eb3af"
+                        "mesh": "0194e6f8-a507-7b9d-963b-5d5482d7aca7"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "0193b249-0321-7e88-be16-8524d7dace97",
+                    "instanceGuid": "0194e6f8-a507-7d87-7f7f-c04ab926abd6",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -106,7 +106,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "0193b249-0321-708f-7375-17b454c044d7",
+                            "instanceGuid": "0194e6f8-a507-7397-91d2-c68b8a496bd1",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -120,13 +120,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "0193b249-0321-7192-7b6d-dbc41137b3c8",
-                                "material_instance": "0193b249-0321-7abf-a361-15f73868fefb"
+                                "mesh": "0194e6f8-a507-7ebd-2e3a-e91e78a6131a",
+                                "material_instance": "0194e6f8-a507-7f8e-ec82-601c9ebfd689"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "0193b249-0321-7192-7b6d-dbc41137b3c8"
+                        "mesh": "0194e6f8-a507-7ebd-2e3a-e91e78a6131a"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
                 }
@@ -134,15 +134,15 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "0193b249-0321-719a-4437-8919670f4efd"
+        "scene": "0194e6f8-a507-78ad-e09a-cab5c990cf93"
     },
     "dependencies": [
-        "0193b249-0321-798c-f637-d54d7a02b10d",
-        "0193b249-0321-75b6-6c68-b386d9ccb95f",
+        "0194e6f8-a507-7f98-c835-e767cff046e3",
+        "0194e6f8-a507-709c-d34c-1082d120006a",
         "dc7e2094-148c-438d-9b97-b6586e6e5f87",
-        "0193b249-0321-7ba2-1b8e-a7221a1ebd14",
-        "0193b249-0321-71a9-c3e5-7c07f30eb3af",
-        "0193b249-0321-7abf-a361-15f73868fefb",
-        "0193b249-0321-7192-7b6d-dbc41137b3c8"
+        "0194e6f8-a507-7b93-f082-40974fa909b5",
+        "0194e6f8-a507-7b9d-963b-5d5482d7aca7",
+        "0194e6f8-a507-7f8e-ec82-601c9ebfd689",
+        "0194e6f8-a507-7ebd-2e3a-e91e78a6131a"
     ]
 }

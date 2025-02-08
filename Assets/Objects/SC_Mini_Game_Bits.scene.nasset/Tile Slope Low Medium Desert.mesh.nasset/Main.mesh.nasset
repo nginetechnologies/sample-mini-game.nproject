@@ -1,16 +1,16 @@
 {
-    "guid": "0193b249-032b-7eb4-3070-bc4a0164e5d6",
+    "guid": "0194e6f8-a511-72ae-a183-713590d2f84e",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "0193b249-032b-7a9f-2c30-473b7362a44e",
+    "instanceGuid": "0194e6f8-a511-7cbf-1544-40819b455758",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "0193b249-032b-7abe-f026-9386f0a130e9",
+            "instanceGuid": "0194e6f8-a511-74bd-1605-800631d46125",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "0193b249-032b-78b9-335d-e93fa689c38a",
+                    "instanceGuid": "0194e6f8-a511-758c-9714-d47f449493e9",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Tile Slope Low Medium Desert BrownDark Collider"
+                            "name": "Tile Slope Low Medium Desert Brown Dark Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "0193b249-032b-7baf-46dc-f79f4b1cd0be",
+                            "instanceGuid": "0194e6f8-a511-7589-2bd2-ae72f290e4b8",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Tile Slope Low Medium Desert BrownDark"
+                                    "name": "Tile Slope Low Medium Desert Brown Dark"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,19 +48,19 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "0193b249-032b-7294-7f17-86115909918b",
-                                "material_instance": "0193b249-0321-798c-f637-d54d7a02b10d"
+                                "mesh": "0194e6f8-a511-79b5-0912-d7dac3b33b5b",
+                                "material_instance": "0194e6f8-a507-7f98-c835-e767cff046e3"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "0193b249-032b-7294-7f17-86115909918b"
+                        "mesh": "0194e6f8-a511-79b5-0912-d7dac3b33b5b"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "0193b249-032b-7093-42b2-b8a13f1dcaaa",
+                    "instanceGuid": "0194e6f8-a511-7584-71fc-52ae700fd6df",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -70,7 +70,7 @@
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "0193b249-032b-7680-44cf-1fa43c6de742",
+                            "instanceGuid": "0194e6f8-a511-76bf-18b6-6ce100bb3b43",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -84,13 +84,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "0193b249-032b-78a5-f4a2-7272a643f15e",
-                                "material_instance": "0193b249-0323-78a4-50d4-540f42eda2e1"
+                                "mesh": "0194e6f8-a511-79ba-48bf-d996b4ecf8fc",
+                                "material_instance": "0194e6f8-a509-74b5-010e-b66c2fee0bc6"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "0193b249-032b-78a5-f4a2-7272a643f15e"
+                        "mesh": "0194e6f8-a511-79ba-48bf-d996b4ecf8fc"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
                 }
@@ -98,13 +98,13 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "0193b249-032b-7eb4-3070-bc4a0164e5d6"
+        "scene": "0194e6f8-a511-72ae-a183-713590d2f84e"
     },
     "dependencies": [
-        "0193b249-0321-798c-f637-d54d7a02b10d",
-        "0193b249-032b-7294-7f17-86115909918b",
+        "0194e6f8-a507-7f98-c835-e767cff046e3",
+        "0194e6f8-a511-79b5-0912-d7dac3b33b5b",
         "dc7e2094-148c-438d-9b97-b6586e6e5f87",
-        "0193b249-0323-78a4-50d4-540f42eda2e1",
-        "0193b249-032b-78a5-f4a2-7272a643f15e"
+        "0194e6f8-a509-74b5-010e-b66c2fee0bc6",
+        "0194e6f8-a511-79ba-48bf-d996b4ecf8fc"
     ]
 }

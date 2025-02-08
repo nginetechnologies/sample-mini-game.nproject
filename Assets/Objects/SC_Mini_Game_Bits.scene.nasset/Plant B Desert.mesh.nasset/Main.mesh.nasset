@@ -1,16 +1,16 @@
 {
-    "guid": "0193b249-0326-7f9d-4ea6-441aec247899",
+    "guid": "0194e6f8-a50c-78a5-8183-0a82b9021d65",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "0193b249-0326-7ba4-147a-bc516a9a0846",
+    "instanceGuid": "0194e6f8-a50c-74a7-0d2e-d5b9afd10685",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "0193b249-0326-7fbd-f6bd-c743fb5ff4ef",
+            "instanceGuid": "0194e6f8-a50c-728b-ad36-b42a9ca46246",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -24,21 +24,21 @@
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "0193b249-0326-79a9-b706-fd71300ae864",
+                    "instanceGuid": "0194e6f8-a50c-7ab0-58e1-20db61fcffae",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Plant B Desert BrownDark Collider"
+                            "name": "Plant B Desert Brown Dark Collider"
                         }
                     ],
                     "children": [
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "0193b249-0326-7db1-89a5-276e98b363dc",
+                            "instanceGuid": "0194e6f8-a50c-7ab2-96f6-befecbe11e75",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Plant B Desert BrownDark"
+                                    "name": "Plant B Desert Brown Dark"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -48,13 +48,13 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "0193b249-0326-7a84-7275-6874010ba81f",
-                                "material_instance": "0193b249-0321-798c-f637-d54d7a02b10d"
+                                "mesh": "0194e6f8-a50c-76b8-7d0f-c10871f16d7c",
+                                "material_instance": "0194e6f8-a507-7f98-c835-e767cff046e3"
                             }
                         }
                     ],
                     "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "0193b249-0326-7a84-7275-6874010ba81f"
+                        "mesh": "0194e6f8-a50c-76b8-7d0f-c10871f16d7c"
                     },
                     "10dceba7-be9f-4a9d-9902-6f51bed634ab": {}
                 }
@@ -62,11 +62,11 @@
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "0193b249-0326-7f9d-4ea6-441aec247899"
+        "scene": "0194e6f8-a50c-78a5-8183-0a82b9021d65"
     },
     "dependencies": [
-        "0193b249-0321-798c-f637-d54d7a02b10d",
-        "0193b249-0326-7a84-7275-6874010ba81f",
+        "0194e6f8-a507-7f98-c835-e767cff046e3",
+        "0194e6f8-a50c-76b8-7d0f-c10871f16d7c",
         "dc7e2094-148c-438d-9b97-b6586e6e5f87"
     ]
 }
